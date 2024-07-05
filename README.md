@@ -21,7 +21,7 @@ Muestra una lista de películas con sus detalles y una imagen de vista previa.
 
     - Definimos los Estilos CSS específicos para el componente Card.
     - Definimos el diseño visual de la tarjeta y sus elementos internos, incluyendo animaciones de hover y transiciones.
-    - Detalles: Establece la apariencia de la tarjeta, cómo se muestra la imagen principal, cómo se anima al hacer hover y los estilos para los detalles de la película.
+    - Se Establece la apariencia de la tarjeta, cómo se muestra la imagen principal, cómo se anima al hacer hover y los estilos para los detalles de la película.
 
 3. **App.jsx**;
     - Se define la estructura general de la página, incluyendo encabezado, contenido principal y las tarjetas de películas.
