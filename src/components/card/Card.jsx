@@ -14,7 +14,7 @@ export const Card = ({ url, titulo='Sin título', descripcion="No hay texto", ur
           <p className="description">{descripcion}</p>
           <p className="año">Año: {year}</p>
           <p className="género">Género: {gender}</p>
-          <button>Ver más</button>
+          <button>Ver en línea</button>
         </div>
         <div className="img-hover">
           <img src={urlHover} alt="imagen hover" />

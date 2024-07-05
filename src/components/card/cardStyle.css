@@ -149,7 +149,7 @@ body {
 
 .content button {
   padding: 6px 20px;
-  background: #5a0000;
+  background: linear-gradient(to right, #FF6347, #8B0000);
   border: none;
   margin-top: 10px;
   color: #ffffff;
@@ -160,7 +160,7 @@ body {
 }
 
 .content button:hover {
-  background: #2fe75d;
+  background: linear-gradient(to right, #6ACD9E, #317873);
 }
 
 .img-hover{
