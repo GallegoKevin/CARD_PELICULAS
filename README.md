@@ -38,4 +38,4 @@ Muestra una lista de películas con sus detalles y una imagen de vista previa.
 
 ## CARD MOVIES __ GIF
 
-![Card](https://i.ibb.co/m49xbBc/c.gif)
+![Card](https://i.ibb.co/8NVYPyG/Vite-React-Google-Chrome-2024-07-05-15-02-28.gif)
