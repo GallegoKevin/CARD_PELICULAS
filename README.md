@@ -35,3 +35,7 @@ Muestra una lista de películas con sus detalles y una imagen de vista previa.
 - Almacena datos estáticos de películas.
 - Contiene la información de cada película, incluyendo URLs de imágenes, títulos, descripciones, años y géneros. usados por el componente App para iterar sobre los datos y generar dinámicamente las tarjetas de películas en la interfaz.
 
+
+## CARD MOVIES __ GIF
+
+![Movies](https://i.ibb.co/Tq534wM/card-peliculas.gif)
