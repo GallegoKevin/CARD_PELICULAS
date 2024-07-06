@@ -18,6 +18,7 @@ function App() {
 
   return (
     <>
+      
       <header>
         <h1 className='title'>NETFLIX</h1>
       </header> 
