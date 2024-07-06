@@ -14,6 +14,7 @@
                 ],
                 "descripción": "Clark Kent recorre el mundo sin revelar sus poderes,pero cuando alguien amenaza la tierra, el entra en acción",
                 "url_principal": "./src/img/wallpaper-hd-superman-man-of-ste.jpg",
+                "fallbackImageUrl": "https://i.ibb.co/86r8gYz/wallpaper-hd-superman-man-of-ste.jpg",
                 "url_hover": "./src/img/pngwing-com.png"
             },
             {
