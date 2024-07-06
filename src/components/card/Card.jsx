@@ -6,8 +6,7 @@ export const Card = ({ url, titulo='Sin título', descripcion="No hay texto", ur
     
     <div className="card">
       <div className="initial-content">
-        <img src={url} alt="imagen" onError={(e) => {
-          e.target.src = fallbackImageUrl;}}/>
+        <img src={url} alt="imagen" />
       </div>
       <div className="hover-content">
         <div className="content">
