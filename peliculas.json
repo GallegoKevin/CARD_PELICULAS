@@ -13,8 +13,8 @@
                     "amy adams"
                 ],
                 "descripción": "Clark Kent recorre el mundo sin revelar sus poderes,pero cuando alguien amenaza la tierra, el entra en acción",
-                "url_principal": "https://i.ibb.co/86r8gYz/wallpaper-hd-superman-man-of-ste.jpg",
-                "url_hover": "https://i.ibb.co/tqsBj1Q/pngwing-com.png"
+                "url_principal": "./src/img/wallpaper-hd-superman-man-of-ste.jpg",
+                "url_hover": "./src/img/pngwing-com.png"
             },
             {
                 "identificador": 189282,
@@ -29,8 +29,8 @@
                     "Edoardo Leo"
                 ],
                 "descripción": "Una madre embarazada que padece cáncer terminal, deja 18 regalos para que su hija reciba en cada cumpleaños",
-                "url_principal": "https://finde.latercera.com/wp-content/uploads/2020/05/18-Regalos.jpg",
-                "url_hover": "https://i.ibb.co/QQGRPNt/18regalos.png"
+                "url_principal": "./src/img/18-Regalos.jpg",
+                "url_hover": "./src/img/18regalos.png"
             },
             {
                 "identificador": 142393,
@@ -45,8 +45,8 @@
                     "Zorion"
                 ],
                 "descripción": "Una prisión vertical con una celda por nivel. Dos personas por celda. Una sola plataforma de alimentos y dos minutos por día para alimentar de arriba a abajo. Una pesadilla interminable atrapada en The Hole.",
-                "url_principal": "https://i.ibb.co/L5Q6KTk/hoyo2.jpg",
-                "url_hover": "https://i.ibb.co/25tsWr8/iva-n5-1.png"
+                "url_principal": "./src/img/hoyo2.jpg",
+                "url_hover": "./src/img/iva-n5-1.png"
             },
             {
                 "identificador": 948573,
@@ -60,8 +60,8 @@
                     "Rene Russo"
                 ],
                 "descripción": "El viudo de setenta años, Ben Whittaker, descubrió que la jubilación no es todo loque parece ser. Aprovechando la oportunidad de volver al juego, se convierte en pasante  señor en un sitio de moda en línea, fundado y dirigido por Jules Ostin.",
-                "url_principal": "https://i.ibb.co/17M9MzW/the-intern-1-1.webp",
-                "url_hover": "https://i.ibb.co/4T8PX0b/Imagen67.png"
+                "url_principal": "./src/img/the-intern-1-1.webp",
+                "url_hover": "./src/img/Imagen67.png"
             },
             {
                 "identificador": 345672,
@@ -76,8 +76,8 @@
                     "Laurence"
                 ],
                 "descripción": "Un ex sicario sale de su retiro para localizar a los mafiosos que mataron a su perro y le quitaron todo.",
-                "url_principal": "https://i.ibb.co/qdxhSR4/john-wick-2.webp",
-                "url_hover": "https://i.ibb.co/3RHDfCk/Daco-3111yuuj30.png"
+                "url_principal": "./src/img/john-wick-2.webp",
+                "url_hover": "./src/img/Daco-3111yuuj30.png"
             },
             {
                 "identificador": 598374,
@@ -92,8 +92,8 @@
                     "Zazie Beetz"
                 ],
                 "descripción": "En Gotham City, el comediante con problemas mentales Arthur Fleck es ignorado y maltratado por la sociedad. Luego se embarca en una espiral descendente de revolución y crímenes sangrientos. Este camino lo pone cara a cara con su alter ego: el Joker.",
-                "url_principal": "https://i.ibb.co/w7wMKSD/joker-historia-real-goetz-ny-1.webp",
-                "url_hover": "https://i.ibb.co/0CygTH3/Guason.png"
+                "url_principal": "./src/img/guason.webp",
+                "url_hover": "./src/img/Guason.png"
             },
             {
                 "identificador": 679456,
@@ -108,8 +108,8 @@
                     "Alex Reid"
                 ],
                 "descripción": "Una mujer se va de vacaciones con sus amigos después de que su esposo y su hija encuentran un trágico accidente.Un año después, ella va de excursión con sus amigos y quedan atrapados en la cueva.Con una falta de suministro,luchan por sobrevivir y se encuentran con extrañas criaturas.",
-                "url_principal": "https://i.ibb.co/KNNtpZp/descenso-1.jpg",
-                "url_hover": "https://i.ibb.co/BwvJPxB/descent2-Nero-AI-Photo-Nero-AI-background-remover.png"
+                "url_principal": "./src/img/descent.jpg",
+                "url_hover": "./src/img/descent.png"
             }
         ],
         "serie": [
@@ -127,8 +127,8 @@
                     "amy adams"
                 ],
                 "descripción": "Mientras Lee Gon llora la trágica muerte su padre Lee Min halla una inesperada escapatoria al toparse con una puerta que conduce a un universo paralelo",
-                "url_principal": "https://tumbaabierta.com/wp-content/uploads/2012/03/wallpaper_hd_superman-man-of-steel-1920x1200_henry_cavill.jpg",
-                "url_hover": "https://i.ibb.co/tqsBj1Q/pngwing-com.png"
+                "url_principal": "",
+                "url_hover": ""
             },
             {
                 "identificador": 645372,
@@ -145,8 +145,8 @@
                     "Miranda Otto"
                 ],
                 "descripción": "Mientras  Greendale se prepara para un eclipse de Hallovween, Sabrina debe tomar uan decisión difícil, y Harvey hace una declaración inesperada",
-                "url_principal": "https://tumbaabierta.com/wp-content/uploads/2012/03/wallpaper_hd_superman-man-of-steel-1920x1200_henry_cavill.jpg",
-                "url_hover": "https://i.ibb.co/tqsBj1Q/pngwing-com.png"
+                "url_principal": "",
+                "url_hover": ""
             },
             {
                 "identificador": 284637,
@@ -164,8 +164,8 @@
                     "Aron Piper"
                 ],
                 "descripción": "Tras el colapso de una escuela pública, el constructor intenta subsanar el daño de a su imagen con una beca a tres estudiantes para que asistan a una institucion privada",
-                "url_principal": "https://tumbaabierta.com/wp-content/uploads/2012/03/wallpaper_hd_superman-man-of-steel-1920x1200_henry_cavill.jpg",
-                "url_hover": "https://i.ibb.co/tqsBj1Q/pngwing-com.png"
+                "url_principal": "",
+                "url_hover": ""
             },
             {
                 "identificador": 930173,
@@ -182,8 +182,8 @@
                     "Mimi Keene"
                 ],
                 "descripción": "Por tener una mandre terapeuta, Otis siempre tiene una respuesta cuando de sexo se trara.Así que su rebelde amiga Meave le propone abrir una clínica de terapia sexual",
-                "url_principal": "https://tumbaabierta.com/wp-content/uploads/2012/03/wallpaper_hd_superman-man-of-steel-1920x1200_henry_cavill.jpg",
-                "url_hover": "https://i.ibb.co/tqsBj1Q/pngwing-com.png"
+                "url_principal": "",
+                "url_hover": ""
             },
             {
                 "identificador": 124370,
@@ -199,8 +199,8 @@
                     "Alyssa Milano"
                 ],
                 "descripción": "Una adolescente que fue víctima de acoso escolar se anota en un concurso de belleza para vengarse, con la ayuda de un desdichado entrenador que no sabe en la que se metió",
-                "url_principal": "https://tumbaabierta.com/wp-content/uploads/2012/03/wallpaper_hd_superman-man-of-steel-1920x1200_henry_cavill.jpg",
-                "url_hover": "https://i.ibb.co/tqsBj1Q/pngwing-com.png"
+                "url_principal": "",
+                "url_hover": ""
             },
             {
                 "identificador": 579034,
@@ -217,8 +217,8 @@
                     "Karoline Eichhorn "
                 ],
                 "descripción": "Una saga familiar con un toque sobrenatural, ambientada en una ciudad alemana, donde la desaparición de dos niños pequeños expone las relaciones entre cuatro familias.",
-                "url_principal": "https://tumbaabierta.com/wp-content/uploads/2012/03/wallpaper_hd_superman-man-of-steel-1920x1200_henry_cavill.jpg",
-                "url_hover": "https://i.ibb.co/tqsBj1Q/pngwing-com.png"
+                "url_principal": "",
+                "url_hover": ""
             },
             {
                 "identificador": 576543,
@@ -235,8 +235,8 @@
                     "Emilia Jones "
                 ],
                 "descripción": "Después de que su padre es asesinado en circunstancias misteriosas, los tres hermanos Locke ysu madre se mudan a su hogar ancestral, Keyhouse, que descubren que está lleno de llaves mágicas que pueden estar relacionadas con la muerte de su padre.",
-                "url_principal": "https://tumbaabierta.com/wp-content/uploads/2012/03/wallpaper_hd_superman-man-of-steel-1920x1200_henry_cavill.jpg",
-                "url_hover": "https://i.ibb.co/tqsBj1Q/pngwing-com.png"
+                "url_principal": "",
+                "url_hover": ""
             },
             {
                 "identificador": 346543,
@@ -253,8 +253,8 @@
                     "Brenton Thwaites "
                 ],
                 "descripción": "Un equipo de jóvenes superhéroes combate el mal y otros peligros.",
-                "url_principal": "https://tumbaabierta.com/wp-content/uploads/2012/03/wallpaper_hd_superman-man-of-steel-1920x1200_henry_cavill.jpg",
-                "url_hover": "https://i.ibb.co/tqsBj1Q/pngwing-com.png"
+                "url_principal": "",
+                "url_hover": ""
             }
         ]
     }
